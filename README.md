@@ -1,1 +1,3 @@
-# altium-templates
+# Altium Templates
+
+Various altium templates.
