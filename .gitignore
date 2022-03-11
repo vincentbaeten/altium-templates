@@ -1,0 +1,18 @@
+### Altium ###
+# Previews Folders
+**/__Previews/
+
+# History Folders
+**/History/*
+
+# Project Logs
+**/Logs*/
+
+# Project Outputs
+**/Outputs*/
+
+# Auto-conversion notices
+**/*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.ldb
