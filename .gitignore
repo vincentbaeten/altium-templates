@@ -6,10 +6,10 @@
 **/History/*
 
 # Project Logs
-**/Logs*/
+**/Project\ Logs*/
 
 # Project Outputs
-**/Outputs*/
+**/Project\ Outputs*/
 
 # Auto-conversion notices
 **/*.PcbDoc.htm
