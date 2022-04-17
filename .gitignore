@@ -16,3 +16,6 @@
 
 # Access lock file for dbLib sources
 **/*.ldb
+
+# CAMtastic files
+**/*.cam
